@@ -1,0 +1,12 @@
+#This is a very useful piece of software
+
+func oopify(prefix) -> prefix + "oop"
+
+print("Greetings Universe!")
+
+func add(a,b,c) -> a+b+c
+print(add(5,6,7))
+
+for i =  0 through 2 then print(oopify("l")) and print(oopify("sp"))
+
+if 5==7 then print("5") inif 6==6 then print("6")
