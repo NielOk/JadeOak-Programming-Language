@@ -4,6 +4,9 @@ func oopify(prefix) -> prefix + "oop"
 
 print("Greetings Universe!")
 
+var a = 5
+print(a)
+
 func add(a,b,c) -> a+b+c
 print(add(5,6,7))
 
