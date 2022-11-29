@@ -1,4 +1,3 @@
 # JadeOak-Programming-Language
-High-Level Programming Language for JadeOak OS. 
-This programming language was created for my JadeOak OS operating system, and it was made from Python. Check the "example.jadeoak" file
-for a little bit of a tutorial on how to write in the JadeOak Programming Language, or you can look at the source code for more clues. In general, it is like Python except the language is a little easier to understand. 
+Function-based, high-level programming language built on top of Python. Designed as conceptualizer and place for test Python code to be built and run before moving it to Python. Helps organize complex code to make more sense to the developer. Very helpful for early Python learners, but can help highly experienced developers with organization. 
+Check the "example.jadeoak" file for a little bit of a tutorial on how to write in the JadeOak Programming Language, or you can look at the source code for more clues. In general, it is like Python except the language is easier to understand and more organizable. 
